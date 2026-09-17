@@ -8,9 +8,10 @@ The goal of this repository is to document my learning progress from Day 1 to Da
 
 ## 📌 Table of Contents / Progress Tracker
 
-|    Day     | Main Topic      |     Status     |                    Notes / Labs                    |
-| :--------: | --------------- | :------------: | :------------------------------------------------: |
-| **Day 01** | Network Devices | ⏳ On Progress | [Notes](./Day-01/notes/) \| [Labs](./Day-01/labs/) |
+|    Day     | Main Topic            |     Status     |                    Notes / Labs                    |
+| :--------: | --------------------- | :------------: | :------------------------------------------------: |
+| **Day 01** | Network Devices       |  ✅ Finished   | [Notes](./Day-01/notes/) \| [Labs](./Day-01/labs/) |
+| **Day 02** | Interfaces and Cables | ⏳ On Progress | [Notes](./Day-02/notes/) \| [Labs](./Day-02/labs/) |
 
 _(Note: The table above will be continuously updated as my study progress moves forward)._
 
