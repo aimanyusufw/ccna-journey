@@ -15,7 +15,8 @@ The goal of this repository is to document my learning progress from Day 1 to Da
 | **Day 03** | OSI Model & TCP/IP Suite        |  ✅ Finished   | [Notes](./Day-03/notes/) \| [Labs](./Day-03/labs/) |
 | **Day 04** | Intro to the CLI                |  ✅ Finished   | [Notes](./Day-04/notes/) \| [Labs](./Day-04/labs/) |
 | **Day 05** | Ethernet LAN Switching (Part 1) |  ✅ Finished   |                 [Notes](./Day-05/)                 |
-| **Day 06** | Ethernet LAN Switching (Part 2) | ⏳ On Progress | [Notes](./Day-06/notes/) \| [Labs](./Day-06/labs/) |
+| **Day 06** | Ethernet LAN Switching (Part 2) |  ✅ Finished   | [Notes](./Day-06/notes/) \| [Labs](./Day-06/labs/) |
+| **Day 07** | IPv4 Addressing                 | ⏳ On Progress | [Notes](./Day-07/notes/) \| [Labs](./Day-07/labs/) |
 
 _(Note: The table above will be continuously updated as my study progress moves forward)._
 
